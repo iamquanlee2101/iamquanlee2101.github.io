@@ -1,0 +1,623 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "name": "Google Drive Không giới hạn",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      }
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 14,
+    "versionPublish": "3.12.1",
+    "favicon": "@PROJECT_PATH@/assets/images/homepage-drive-logo-4d5b045706a3ce5f34568bdc1ddfee7e8a244f0d76b5d5061de07c9986e262d5-128x128.png",
+    "noImageResize": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header4",
+          "_anchor": "header4-0",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/wKJ9KzGQq0w?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+            },
+            "bgVideoRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "GOOGLE DRIVE <br>KHÔNG GIỚI HẠN",
+          "text": "Lưu trữ dữ liệu của bạn với một bộ nhớ không giới hạn tốc độ cao",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://www.facebook.com/IAmQuanLee\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Liên Hệ Admin</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html#pricing-table1-3\" data-toolbar=\"-mbrBtnMove\">Tìm hiểu thêm</a>"
+        },
+        {
+          "_inherit": "features3",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features6",
+          "_anchor": "features6-1",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "desktop",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title1": "Tiện Dụng",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Dùng ngay trên Google Drive của Google<br>Tiện dụng, nhanh chóng",
+          "button1": "<a data-app-btn=\"true\" href=\"index.html#msg-box8-2\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Thêm</a>",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "mobile",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title2": "Đơn giản",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Mua và thanh toán chỉ với vài bước đơn giản<br>Không yêu cầu nhiều",
+          "button2": "<a data-app-btn=\"true\" href=\"index.html#msg-box8-2\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Thêm</a>",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "pencil",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title3": "Tùy biến",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Tài khoản được lập theo ý muốn của khách hàng<br>Dễ nhớ, chính chủ",
+          "button3": "<a data-app-btn=\"true\" href=\"index.html#msg-box8-2\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Thêm</a>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title4": "Bảo mật",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Dữ liệu của bạn được bảo mật ở mức độ cao nhất<br>Mọi thứ của riêng bạn",
+          "button4": "<a data-app-btn=\"true\" href=\"index.html#msg-box8-2\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Thêm</a>",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-2",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/direct-link-google-drive-2000x757.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Tại sao bạn nên có một tài khoản google drive không giới hạn ?",
+          "text": "<p>Bạn thiếu dung lượng lưu trữ, bạn cần một backup tốc độ cao và uy tín, bạn cần chia sẻ lượng lớn dữ liệu, bạn cần một ổ cứng di động mà không phải mang theo. Hãy chọn google drive không giới hạn.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section__container .mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section__container .mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table1",
+          "_anchor": "pricing-table1-3",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#303030",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": true,
+            "firstType": "",
+            "showButtons": true,
+            "secondType": "bg-primary",
+            "thirdType": "",
+            "fourthType": ""
+          },
+          "title": "Bảng giá",
+          "subtitle": "Bảng giá <b>GOOGLE DRIVE</b> không giới hạn",
+          "label1": "HOT!",
+          "title1": "BÌNH THƯỜNG",
+          "subtitle1": "Người mua bình thường",
+          "currency1": "đ",
+          "price1": "150k<br>",
+          "period1": "",
+          "description1": "Đối với khách hàng mua bình thường, có thể thanh toán qua Vietcombank, BIDV hoặc thẻ cào",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Có 1 Tài Khoản</li><li class=\"list-group-item\">Bộ nhớ không giới hạn</li><li class=\"list-group-item\">Thời gian vĩnh viễn</li><li class=\"list-group-item\">Có tất cả dịch vụ như gmail thông thường</li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"index.html#content8-a\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">Liên hệ</a>",
+          "label2": "HOT!",
+          "title2": "SINH VIÊN",
+          "subtitle2": "Người mua là sinh viên",
+          "currency2": "đ",
+          "price2": "100k",
+          "period2": "",
+          "description2": "Đối với khách hàng sinh viên, có thể thanh toán qua Vietcombank, BIDV hoặc thẻ cào",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Có 1 tài khoản</li><li class=\"list-group-item\">Bộ nhớ không giới hạn</li><li class=\"list-group-item\">Thời gian vĩnh viễn</li><li class=\"list-group-item\">Có tất cả dịch vụ như gmail thông thường</li></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"index.html#content8-a\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">Liên hệ</a>",
+          "label3": "HOT!",
+          "title3": "THƯƠNG HIỆU",
+          "subtitle3": "Người mua muốn có thương hiệu",
+          "currency3": "đ",
+          "price3": "1200k",
+          "period3": "",
+          "description3": "Đối với khách muốn có thương hiệu riêng, có thể thanh toán qua Vietcombank, BIDV hoặc thẻ VISA",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Có 10 tài khoản</li><li class=\"list-group-item\"><b>Có đuôi thương hiệu riêng</b></li><li class=\"list-group-item\">Bộ nhớ không giới hạn</li><li class=\"list-group-item\">Thời gian vĩnh viễn</li><li class=\"list-group-item\">Có tất cả dịch vụ như gmail thông thường</li></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"index.html#content8-a\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">Liên hệ</a>",
+          "label4": "HOT!",
+          "title4": "ADMIN",
+          "subtitle4": "Khách hàng muốn làm admin",
+          "currency4": "",
+          "price4": "2000K&nbsp;",
+          "period4": "",
+          "description4": "Đối với khách hàng muốn làm admin quản lý,&nbsp;có thể thanh toán qua Vietcombank, BIDV",
+          "list4": "Với khách hàng muốn là admin tự quản lý, vui lòng liên hệ để biết thêm chi tiết",
+          "button4": "<a data-app-btn=\"true\" href=\"index.html#content8-a\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">Liên hệ</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-4",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": true,
+            "showButtons": false,
+            "showTitle": true,
+            "showText": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">VIEW VIDEO TUTORIAL</a>",
+          "title": "CÂU HỎI THƯỜNG GẶP",
+          "text": "Tổng hợp những thắc mắc của khách hàng khi hỏi về google drive không giới hạn"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-5",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "BẢO MẬT DỮ LIỆU RA SAO ?",
+          "caption": "<p>Tài khoản được bảo mật ở mức cao nhất, không ai có thể truy xuất dữ liệu của bạn.</p>"
+        },
+        {
+          "_inherit": "content5",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "text-align": "right",
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content8",
+          "_anchor": "content8-6",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "ADMIN CÓ QUYỀN GÌ ?",
+          "caption": "<p>Admin có quyền xem tên, địa chỉ email của bạn và dung lượng bộ nhớ bạn đã dùng.</p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-7",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "LÀ SINH VIÊN, LÀM GÌ ĐỂ ĐƯỢC KHUYẾN MÃI GIẢM GIÁ CÒN 100K ?",
+          "caption": "<p>Là sinh viên, bạn cần cung cấp thẻ sinh viên còn hạn và hạn sử dụng có trên thẻ cho admin để được nhận ưu đãi.</p>"
+        },
+        {
+          "_inherit": "content5",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "text-align": "right",
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content8",
+          "_anchor": "content8-8",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "TÀI KHOẢN CÓ ĐUÔI LÀ .EDU PHẢI KHÔNG ?",
+          "caption": "<p>Không, tài khoản có đuôi .com, không phải đuôi EDU được đăng ký theo diện học sinh nên không lo về vấn đề độ bền của tài khoản.</p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-9",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "CÓ THỂ NÂNG CẤP TÀI KHOẢN CŨ LÊN ĐƯỢC KHÔNG ?",
+          "caption": "<p>Không, tài khoản phải được tạo mới, tài khoản mới được đăng ký theo tên và username của khách hàng.</p>"
+        },
+        {
+          "_inherit": "content5",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "text-align": "right",
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content8",
+          "_anchor": "content8-a",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "LÀM SAO ĐỂ MUA ?",
+          "caption": "<p>Xin vui &nbsp;lòng nhắn tin cho admin theo mẫu:<br>Tên: _____________ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p><p>Username muốn tạo:_____________ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p><p>Sau một thời gian ngắn, admin sẽ đưa tài khoản cho bạn, sau đó bạn vào kiểm tra và chuyển khoản cho admin.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-c",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": true,
+            "showText": true,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.facebook.com/IAmQuanLee\" data-toolbar=\"-mbrBtnMove\">Liên hệ ngay</a>",
+          "text": "",
+          "title": "LIÊN HỆ ADMIN"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-b",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "KIỂM TRA BẰNG CÁCH NÀO ?",
+          "caption": "<p>Bạn truy cập vào https://www.google.com/settings/storage để kiểm tra dung lượng bạn nhé.</p>"
+        },
+        {
+          "alias": "facebook-comments",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "facebook-comments-block",
+          "_anchor": "facebook-comments-block-d",
+          "_params": {
+            "postsNumber": "16",
+            "bgImage": "@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/comments_bg.jpg",
+            "bgImageRadio": false,
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.6,
+            "overlayColor": "#7e9b9f",
+            "socialFacebook": true,
+            "socialGoogle": false,
+            "shortName": "",
+            "socialDisqus": false
+          },
+          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments.jpg\"></div>",
+          "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/google-comments.jpg\"></div>",
+          "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/disqus-comments.jpg\"></div>"
+        }
+      ]
+    }
+  }
+}
